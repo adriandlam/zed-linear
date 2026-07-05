@@ -1,0 +1,20 @@
+id = "linear"
+name = "Linear"
+version = "0.0.1"
+schema_version = 1
+description = "Linear light and dark theme for Zed, ported from Codex."
+repository = "https://github.com/adriandlam/linear"
+authors = ["Adrian Lam"]
+themes = ["themes/linear.json"]
+languages = []
+capabilities = []
+
+[lib]
+
+[grammars]
+
+[language_servers]
+
+[context_servers]
+
+[slash_commands]
