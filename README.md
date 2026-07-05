@@ -13,4 +13,4 @@ Copy `themes/linear.json` to `~/.config/zed/themes/linear.json`, then select `Li
 
 ## Marketplace
 
-Publish this folder as `adriandlam/linear`, then add it as a submodule in `zed-industries/extensions`.
+Publish this folder as `adriandlam/zed-linear`, then add it as the `linear` submodule in `zed-industries/extensions`.
