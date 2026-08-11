@@ -3,5 +3,5 @@ name = "Linear Theme"
 version = "0.0.1"
 schema_version = 1
 authors = ["Adrian Lam <me@adrianlam.sh>"]
-description = "Unofficial Linear-inspired light and dark theme for Zed."
+description = "Unofficial light and dark theme for Zed, adapted from the Linear theme in the Codex app."
 repository = "https://github.com/adriandlam/zed-linear"
